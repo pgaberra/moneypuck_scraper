@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+ENV/
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.bak
+
+# Testing
+.coverage
+.tox/
+
+# Other
+*.pyc
+*.log
+.DS_Store
